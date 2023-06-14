@@ -1,5 +1,0 @@
-python utils/merge_llama_with_chinese_lora.py \
-     --base_model /disc1/models/llama_hf/7B \
-     --lora_model /disc1/models_output/llama \
-     --output_type huggingface \
-     --output_dir /disc1/models_output/llama_output
